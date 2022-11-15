@@ -1,0 +1,1 @@
+<img src="<?php echo base_url('files/profile/'.$this->user->id.'/'.$pic_name);?>" class="img-responsive" alt="">  

@@ -1,0 +1,1 @@
+<img alt="" class="img-circle" src="<?php echo base_url('files/profile/'.$this->user->id.'/'.$pic_name);?>">  
